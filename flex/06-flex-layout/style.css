@@ -33,6 +33,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 5px;
 }
 
 img {
@@ -60,6 +61,7 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 5px;
 }
 
 .content {
